@@ -1,0 +1,21 @@
+{
+  "name": "helloedit",
+  "version": "1.0.0",
+  "description": "my website",
+  "main": "index.js",
+  "author": "Corentin Poupry",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "snowpack dev",
+    "build": "snowpack build"
+  },
+  "devDependencies": {
+    "@snowpack/plugin-postcss": "^1.1.0",
+    "autoprefixer": "^10.2.4",
+    "postcss": "^8.2.6",
+    "postcss-cli": "^8.3.1",
+    "snowpack": "^3.0.11",
+    "tailwindcss": "^2.0.3"
+  }
+}
