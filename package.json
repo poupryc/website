@@ -11,11 +11,11 @@
     "build": "snowpack build"
   },
   "devDependencies": {
-    "@snowpack/plugin-postcss": "^1.1.0",
-    "autoprefixer": "^10.2.4",
-    "postcss": "^8.2.6",
+    "@snowpack/plugin-postcss": "^1.2.2",
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.15",
     "postcss-cli": "^8.3.1",
-    "snowpack": "^3.0.11",
-    "tailwindcss": "^2.0.3"
+    "snowpack": "^3.4.0",
+    "tailwindcss": "^2.1.2"
   }
 }
